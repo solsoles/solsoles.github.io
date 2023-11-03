@@ -1566,7 +1566,9 @@ readers do not read off random characters that represent icons */
   content: "\f2c9"; }
 
 .fa-thermometer-2::before {
-  content: "\f2c9"; }
+  content: "\f2c9"; 
+ /* background-image: url("../../../../images/shoe-removebg-preview.png"); this is a temp thing*/
+}
 
 .fa-thermometer-half::before {
   content: "\f2c9"; }
