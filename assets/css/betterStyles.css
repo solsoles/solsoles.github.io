@@ -1,10 +1,10 @@
 @media (prefers-color-scheme: dark) {
-  body,
   #footer .footer-top,
   #footer .container,
   #faq,
   #footer,
-  .faq .faq-list .collapsed {
+  .faq .faq-list .collapsed,
+  .darkBG {
     background: #3f3f3f;
   }
   .navbar a,
@@ -27,14 +27,14 @@
     background: #434343;
     border-radius: 75px;
   }
-  #footer .footer-top .footer-links ul a, .faq .faq-list .collapsed {
+  #footer .footer-top .footer-links ul a, .faq .faq-list .collapsed, body {
     color: #d6d6d6;
   }
   #header {
     background: #292929;
   }
   p.description, h3 {
-    color: #494949;
+    color: #505050;
   }
 }
 
