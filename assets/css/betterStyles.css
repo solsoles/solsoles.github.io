@@ -27,6 +27,9 @@
     background: #434343;
     border-radius: 75px;
   }
+  #footer .footer-top .footer-links ul a {
+    color: #d6d6d6;
+  }
 }
 
 #contact .col-lg-6 {
