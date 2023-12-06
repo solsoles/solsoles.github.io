@@ -14,7 +14,7 @@
   .footer-link-text,
   #footer,
   .darkBG {
-    color: #e9e9e9;
+    background: #3a3a3a;
   }
   #contact .info-box h3 {
     color: #e9e9e9;
@@ -30,12 +30,13 @@
   #footer .footer-top .footer-links ul a, .faq .faq-list .collapsed, body {
     color: #d6d6d6;
   }
-  #header {
-    background: #292929;
-  }
   p.description, h3 {
     color: #505050;
   }
+}
+
+#header {
+  background: #292929;
 }
 
 #contact .col-lg-6 {
