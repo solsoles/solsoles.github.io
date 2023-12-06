@@ -55,6 +55,9 @@
   .subtext {
     color: #505050;
   }
+  .departments .nav-link.active p {
+    color: #000;
+  }
 }
 
 #header {
