@@ -5,6 +5,16 @@
   body,
   .row,
   #footer,
+  #contact.contact,
+  #pricing.pricing,
+  #doctors.doctors,
+  #featured-services.featured-services,
+  #about.about,
+  #features.features,
+  #services.services,
+  #appointment.appointment,
+  #departments.departments,
+  #testimonials.testimonials,
   .faq .faq-list .collapsed {
     background: #3f3f3f;
   }
