@@ -41,10 +41,14 @@
   }
   #footer .footer-top .footer-links ul a,
   .faq .faq-list .collapsed,
-  body {
+  body,
+  .features-desc,
+  h4.title,
+  .service-desc,
+  .department-desc {
     color: #d6d6d6;
   }
-  h3 {
+  h3, h4 {
     color: white;
   }
   p.description,
