@@ -1,2 +1,2 @@
 # solsoles.github.io
-Very Custom Description
+The main repository for the Sol website
