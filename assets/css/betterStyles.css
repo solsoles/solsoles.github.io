@@ -79,4 +79,8 @@
   color: #222;
 }
 
+.row {
+  justify-content: space-evenly;
+}
+
 /* class="testimonial-text" */
