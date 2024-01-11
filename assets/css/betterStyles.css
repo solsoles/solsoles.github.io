@@ -48,10 +48,9 @@
   .department-desc {
     color: #d6d6d6;
   }
-  h3, h4 {
+  h3, h4, .services-title {
     color: white;
   }
-  p.description,
   .subtext {
     color: #505050;
   }
