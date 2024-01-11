@@ -72,8 +72,9 @@
   color: #292929;
 }
 
-.department-text {
+.department-text, .service-desc {
   color:#d6d6d6
 }
+
 
 /* class="testimonial-text" */
